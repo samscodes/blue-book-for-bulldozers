@@ -1,0 +1,3 @@
+Get the data from here
+https://www.kaggle.com/c/bluebook-for-bulldozers/data
+and unzip it to the data folder
